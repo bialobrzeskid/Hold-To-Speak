@@ -38,7 +38,8 @@ A modern desktop application for real-time voice transcription using OpenAI's Wh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whisper-transcription-app.git
+git clone https://github.com/bialobrzeskid/Hold-To-Speak.git
+
 cd whisper-transcription-app
 ```
 
